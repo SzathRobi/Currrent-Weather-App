@@ -1,0 +1,43 @@
+.row {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0.2rem;
+  margin-top: 2rem;
+  position: relative;
+}
+
+.row h5 {
+  position: relative;
+  font-size: 1rem;
+  opacity: 0;
+  animation: animateH5 500ms forwards;
+}
+.row h5::before {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: -5px;
+  left: -5%;
+  background: #3af8c9;
+  transition: 400ms;
+  animation: animateUnderline 700ms forwards;
+}
+
+@keyframes animateUnderline {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 110%;
+  }
+}
+
+@keyframes animateH5 {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
