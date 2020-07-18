@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Currrent-Weather-App/static/css/main.07d70a58.chunk.css",
+    "main.js": "/Currrent-Weather-App/static/js/main.031a684a.chunk.js",
+    "main.js.map": "/Currrent-Weather-App/static/js/main.031a684a.chunk.js.map",
+    "runtime-main.js": "/Currrent-Weather-App/static/js/runtime-main.bc13622a.js",
+    "runtime-main.js.map": "/Currrent-Weather-App/static/js/runtime-main.bc13622a.js.map",
+    "static/js/2.f876c1dd.chunk.js": "/Currrent-Weather-App/static/js/2.f876c1dd.chunk.js",
+    "static/js/2.f876c1dd.chunk.js.map": "/Currrent-Weather-App/static/js/2.f876c1dd.chunk.js.map",
+    "index.html": "/Currrent-Weather-App/index.html",
+    "precache-manifest.1d8da25644378122e07a3b74ab57c5d4.js": "/Currrent-Weather-App/precache-manifest.1d8da25644378122e07a3b74ab57c5d4.js",
+    "service-worker.js": "/Currrent-Weather-App/service-worker.js",
+    "static/css/main.07d70a58.chunk.css.map": "/Currrent-Weather-App/static/css/main.07d70a58.chunk.css.map",
+    "static/js/2.f876c1dd.chunk.js.LICENSE.txt": "/Currrent-Weather-App/static/js/2.f876c1dd.chunk.js.LICENSE.txt",
+    "static/media/cloudy.jpg": "/Currrent-Weather-App/static/media/cloudy.11e7d75a.jpg",
+    "static/media/rainy.png": "/Currrent-Weather-App/static/media/rainy.6ddf920e.png",
+    "static/media/App.css": "/Currrent-Weather-App/static/media/sunny.e94748e1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc13622a.js",
+    "static/js/2.f876c1dd.chunk.js",
+    "static/css/main.07d70a58.chunk.css",
+    "static/js/main.031a684a.chunk.js"
+  ]
+}
