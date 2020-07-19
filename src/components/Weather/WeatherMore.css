@@ -1,3 +1,7 @@
+.weatherMore {
+  padding-bottom: 2rem;
+}
+
 .row {
   display: flex;
   justify-content: space-evenly;

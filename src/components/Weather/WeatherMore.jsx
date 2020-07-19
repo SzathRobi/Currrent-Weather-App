@@ -4,7 +4,7 @@ import "./WeatherMore.css";
 
 function WeatherMore({ tempMin, tempMax, humidity, pressure }) {
   return (
-    <div>
+    <div className="weatherMore">
       <div className="row">
         <h5>Lowest Temp: {tempMin}C</h5>
         <h5>Highest Temp: {tempMax}C</h5>
